@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Passionate in the world of computer security, especially the offensive part 😈, a few years ago I was very interested in the world of Machine Learning/Deep Learning, in short, Artificial Intelligence 🧠 and now I love to combine it with the field of cybersecurity 🔐 to create projects, investigate new algorithms 🧮 that can be applied in the sector or develop innovative tools 🛠️.
+I am passionate about computer security aka cybersecurity, especially the offensive part 😈, a few years ago I was very interested in the world of Machine Learning/Deep Learning, in short, Artificial Intelligence 🧠 and now I love to combine it with the field of cybersecurity 🔐 to create projects, investigate new algorithms 🧮 that can be applied in the sector or develop innovative tools 🛠️.
 
 I'm currently very involved in the analysis of vulnerabilities in web applications 🐞, preparing the AWAE certification offered by Offensive-Security and making machines on the HackTheBox 🟩 platform to keep up to date on the different vulnerabilities.
 
